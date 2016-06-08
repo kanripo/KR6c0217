@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:54.941276
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:46
 #+TITLE: 仁王經疏
 #+PROPERTY: CBETA_ID T85n2745
 #+PROPERTY: ID KR6c0217
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2745
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0217_T_000-0166a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0217_T_001-0166a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2745[cf.No.245]¶
-
- 仁王經疏¶
+No. 2745 [cf. No. 245]¶
+仁王經疏¶
 ¶
 
 難聞時。更無先後。簡去傳聞。成上我聞。故¶
